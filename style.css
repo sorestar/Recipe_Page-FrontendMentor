@@ -2,12 +2,13 @@
 font-family: 'outfit';
   src:url('fonts/Outfit-Regular.ttf') format('truetype');
   font-style:normal;
+   weight:400;
   
 }
 
 @font-face{
 font-family: 'youngserif';
   src:url('fonts/YoungSerif-Regular.ttf') format('truetype');
-  font-style:normal;
+  weight:400;
   
 }
