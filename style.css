@@ -1,4 +1,13 @@
 @font-face{
 font-family: 'outfit';
-  src:url(fonts/
+  src:url('fonts/Outfit-Regular.ttf') format('truetype');
+  font-style:normal;
+  
+}
+
+@font-face{
+font-family: 'youngserif';
+  src:url('fonts/YoungSerif-Regular.ttf') format('truetype');
+  font-style:normal;
+  
 }
