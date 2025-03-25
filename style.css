@@ -3,6 +3,8 @@ font-family: 'outfit';
   src:url('fonts/Outfit-Regular.ttf') format('truetype');
   font-style:normal;
    weight:400;
+  font-size:smaller;
+   line-height: 1.8;
   
 }
 
